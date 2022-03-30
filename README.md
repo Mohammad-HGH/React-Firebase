@@ -32,8 +32,7 @@ Install my-project with npm
   npm start
 ```
     
-## Live Demo
+## License
 
-You can also work with demo. 👇👇
+[MIT](https://choosealicense.com/licenses/mit/)
 
-[Demo](#)
